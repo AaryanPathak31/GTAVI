@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Pricedown';
+    src: url('/public/pricedown.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+html{
+  font-family: 'Pricedown', Arial, sans-serif;
+}
+
+body{
+  font-family: 'Pricedown', Arial, sans-serif;
+}
+
