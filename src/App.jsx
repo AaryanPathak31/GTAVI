@@ -353,9 +353,11 @@ function App() {
                   <div className="line w-8 h-2 bg-white"></div>
                   <div className="line w-5 h-2 bg-white"></div>
                 </div>
+                <a href="/">
                 <h3 className="text-4xl -mt-[8px] leading-none text-white">
                   Rockstar
                 </h3>
+                </a>
               </div>
             </div>
 
